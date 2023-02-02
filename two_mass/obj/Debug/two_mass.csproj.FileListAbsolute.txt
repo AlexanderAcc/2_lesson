@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\two_mass\two_mass\bin\Debug\two_mass.exe.config
+C:\Users\Админ\source\repos\two_mass\two_mass\bin\Debug\two_mass.exe
+C:\Users\Админ\source\repos\two_mass\two_mass\bin\Debug\two_mass.pdb
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.Form1.resources
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.Properties.Resources.resources
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.exe
+C:\Users\Админ\source\repos\two_mass\two_mass\obj\Debug\two_mass.pdb
